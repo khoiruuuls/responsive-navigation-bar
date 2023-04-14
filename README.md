@@ -1,4 +1,5 @@
-# Responsive Navigation Bar
+# Thank you, bedimcode !
+## Responsive Navigation Bar
 ## [Watch it on youtube](https://youtu.be/k-jwXwpNuXI)
 ### Responsive Navigation Bar
 
